@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eezoochoo.vriirv.com/sitemap.xml
